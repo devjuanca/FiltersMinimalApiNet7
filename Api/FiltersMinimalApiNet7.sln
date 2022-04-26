@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FiltersMinimalApiNet7", "FiltersMinimalApiNet7.csproj", "{9007B095-3B73-4274-9991-54682A5BDA73}"
+EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Application\Application.csproj", "{0AF43132-0097-4DB7-B1EC-8D5335453B5D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{C90006CA-B776-4AD4-A200-59C6164A8E77}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FiltersMinimalApiNet7", "Api\FiltersMinimalApiNet7.csproj", "{6287C671-C550-4823-8BF3-B3644F637968}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +15,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9007B095-3B73-4274-9991-54682A5BDA73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9007B095-3B73-4274-9991-54682A5BDA73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9007B095-3B73-4274-9991-54682A5BDA73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9007B095-3B73-4274-9991-54682A5BDA73}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0AF43132-0097-4DB7-B1EC-8D5335453B5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0AF43132-0097-4DB7-B1EC-8D5335453B5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AF43132-0097-4DB7-B1EC-8D5335453B5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -23,10 +27,6 @@ Global
 		{C90006CA-B776-4AD4-A200-59C6164A8E77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C90006CA-B776-4AD4-A200-59C6164A8E77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C90006CA-B776-4AD4-A200-59C6164A8E77}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6287C671-C550-4823-8BF3-B3644F637968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6287C671-C550-4823-8BF3-B3644F637968}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6287C671-C550-4823-8BF3-B3644F637968}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6287C671-C550-4823-8BF3-B3644F637968}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

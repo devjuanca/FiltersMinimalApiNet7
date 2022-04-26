@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wARqze5Ixx97UpE2W+7S6zPYB/YPh6GWS6Yz1lRALl+oM8veMaVj0GRSaXxjrvQVzn6LynjmKr963rLmtYmdjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tech\\Desktop\\FiltersMinimalApiNet7\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tech\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
+    "C:\\Users\\Tech\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.4.0\\fluentvalidation.dependencyinjectionextensions.10.4.0.nupkg.sha512",
+    "C:\\Users\\Tech\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
